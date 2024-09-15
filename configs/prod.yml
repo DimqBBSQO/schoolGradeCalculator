@@ -1,0 +1,14 @@
+http:
+  port: 3000
+
+cache:
+  ttl: 60 #seconds
+
+ctx:
+  ttl: 10s
+
+Postgres:
+  Host: 192.168.91.11
+  Port: 5432
+  DBName: admin_panel_new
+  SslMode: disable

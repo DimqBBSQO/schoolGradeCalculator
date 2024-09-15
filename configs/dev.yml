@@ -1,0 +1,8 @@
+http:
+  port: 3000
+
+cache:
+  ttl: 60 #seconds
+
+ctx:
+  ttl: 10s
